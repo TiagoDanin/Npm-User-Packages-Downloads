@@ -1,0 +1,38 @@
+{
+  "name": "npm-user-packages-downloads",
+  "main": "index.js",
+  "version": "1.0.0",
+  "description": "Get npm packages per author with download counts",
+  "author": {
+    "name": "Tiago Danin",
+    "email": "TiagoDanin@outlook.com",
+    "url": "https://TiagoDanin.github.io"
+  },
+  "license": "MIT",
+  "keywords": [
+    "api",
+    "homepage",
+    "npm",
+    "packages",
+    "user",
+    "version",
+    "downloads"
+  ],
+  "scripts": {},
+  "private": false,
+  "github": {
+    "name": "Npm-User-Packages-Downloads",
+    "owner": "TiagoDanin"
+  },
+  "files": [
+    "LICENSE",
+    "README.md",
+    "index.js",
+    "package.json"
+  ],
+  "devDependencies": {},
+  "dependencies": {
+    "axios": "0.18.0",
+    "npm-user-packages": "3.0.0"
+  }
+}
